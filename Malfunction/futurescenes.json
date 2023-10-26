@@ -1,0 +1,14 @@
+{
+	"自由廣場": {
+        "place": "Liberty Square",
+        "intro": "Previously known as Chiang Kai-shek Memorial Square, the Free Square, nestled within Taipei's Zhongzheng District, exudes a cybernetic grandeur. Spanning 250,000 square meters, this public space boasts a fusion of technological marvels and artistic spectacles, featuring the Chiang Kai-shek Memorial Hall, ceremonial gateways, and the National Concert Hall. Its rechristening in 2007 marked Taiwan's liberation from autocratic rule, signifying the nation's stride towards cybernetic democracy and individual freedoms."
+	},
+	"松菸": {
+		"place": "Songshan Cultural and Creative Park",
+		"intro": "Once known as the Songshan Tobacco Plant, the cybernetic Songshan Cultural and Creative Park, colloquially dubbed as Songyan, stands as a multifaceted cultural showcase in Taipei's Xinyi District. Originally established in 1939 and designated a municipal heritage site in 2001, this sprawling expanse of urban transformation boasts lush greenery and, post-production, evolved into a prominent public arts and culture hub, comprising the Taipei Culture and Creativity Building and the forthcoming Taipei Dome.Managed separately under the BOT model, these structures, juxtaposed with the Park's heritage revitalization, epitomize Taipei's cutting-edge urban metamorphosis."
+	},
+    "101 世貿": {
+        "place": "Taipei 101 and Taipei World Trade Center",
+        "intro": "he towering behemoth TAIPEI 101, a monolithic edifice reigning over Taipei's Xinyi Planning District, pierces the skyline at 509.2 meters, boasting 101 towering tiers aboveground and 5 sunless depths below. Once the world's loftiest in 2010, it remains the paragon of Taiwan's urban ascent, a singular colossus surpassing the elusive 500-meter threshold, emblematic of the island's technological bravado. Nestled within the same precinct, the Taipei World Trade Center (TWTCC), a polymorphic bastion of commerce, thrums with esoteric vibrancy. Orchestrated to harmonize with the World Trade Centers Association's global initiatives, it incubates a labyrinth of esoteric hardware and software, catering to the multifarious demands of expositions, international commerce, and haute cuisine, channeling Taiwan's economic transcendence into the cyberpunk stratosphere."
+    }
+}

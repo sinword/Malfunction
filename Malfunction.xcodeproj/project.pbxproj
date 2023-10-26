@@ -7,17 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72E56A542AEAAF8900DAA704 /* 101 世貿故障.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A512AEAAF8100DAA704 /* 101 世貿故障.mp4 */; };
+		72E56A552AEAAF8900DAA704 /* 松菸故障.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A522AEAAF8800DAA704 /* 松菸故障.mp4 */; };
+		72E56A562AEAAF8900DAA704 /* 自由廣場故障.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A532AEAAF8900DAA704 /* 自由廣場故障.mp4 */; };
+		72E56A582AEAB0E800DAA704 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E56A572AEAB0E800DAA704 /* ContentView.swift */; };
+		72E56A5E2AEAB2DD00DAA704 /* Syncopate.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A5A2AEAB2DD00DAA704 /* Syncopate.ttf */; };
+		72E56A5F2AEAB2DD00DAA704 /* SyncopateBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A5B2AEAB2DD00DAA704 /* SyncopateBold.ttf */; };
+		72E56A602AEAB2DD00DAA704 /* NotoSansCJKTCBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A5C2AEAB2DD00DAA704 /* NotoSansCJKTCBold.ttf */; };
+		72E56A612AEAB2DD00DAA704 /* NotoSansCJKTC.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72E56A5D2AEAB2DD00DAA704 /* NotoSansCJKTC.ttf */; };
+		72EBE04B2AEAB8820085046B /* loadingAnimation2.css in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE0412AEAB8820085046B /* loadingAnimation2.css */; };
+		72EBE04C2AEAB8820085046B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EBE0422AEAB8820085046B /* AppDelegate.swift */; };
+		72EBE04D2AEAB8820085046B /* loadingAnimationCompleted.html in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE0432AEAB8820085046B /* loadingAnimationCompleted.html */; };
+		72EBE04E2AEAB8820085046B /* futurescenes.json in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE0442AEAB8820085046B /* futurescenes.json */; };
+		72EBE04F2AEAB8820085046B /* FutureScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EBE0452AEAB8820085046B /* FutureScene.swift */; };
+		72EBE0502AEAB8820085046B /* loadingAnimationInitializing.html in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE0462AEAB8820085046B /* loadingAnimationInitializing.html */; };
+		72EBE0512AEAB8820085046B /* SelectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EBE0472AEAB8820085046B /* SelectButton.swift */; };
+		72EBE0522AEAB8820085046B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EBE0482AEAB8820085046B /* ViewController.swift */; };
+		72EBE0532AEAB8820085046B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EBE0492AEAB8820085046B /* ContentView.swift */; };
+		72EBE0542AEAB8820085046B /* loadingAnimationLoading.html in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE04A2AEAB8820085046B /* loadingAnimationLoading.html */; };
+		72EBE0592AEABADC0085046B /* loadingAnimation1.css in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE0582AEABADC0085046B /* loadingAnimation1.css */; };
+		72EBE0602AEAC1BA0085046B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72EBE05F2AEAC1BA0085046B /* LaunchScreen.storyboard */; };
 		72F817112AEAA3C60028B738 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F817102AEAA3C60028B738 /* AppDelegate.swift */; };
-		72F817132AEAA3C60028B738 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 72F817122AEAA3C60028B738 /* art.scnassets */; };
 		72F817152AEAA3C60028B738 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F817142AEAA3C60028B738 /* ViewController.swift */; };
 		72F817182AEAA3C60028B738 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72F817162AEAA3C60028B738 /* Main.storyboard */; };
 		72F8171A2AEAA3C80028B738 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72F817192AEAA3C80028B738 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72E56A512AEAAF8100DAA704 /* 101 世貿故障.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "101 世貿故障.mp4"; sourceTree = "<group>"; };
+		72E56A522AEAAF8800DAA704 /* 松菸故障.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "松菸故障.mp4"; sourceTree = "<group>"; };
+		72E56A532AEAAF8900DAA704 /* 自由廣場故障.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "自由廣場故障.mp4"; sourceTree = "<group>"; };
+		72E56A572AEAB0E800DAA704 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		72E56A5A2AEAB2DD00DAA704 /* Syncopate.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Syncopate.ttf; sourceTree = "<group>"; };
+		72E56A5B2AEAB2DD00DAA704 /* SyncopateBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SyncopateBold.ttf; sourceTree = "<group>"; };
+		72E56A5C2AEAB2DD00DAA704 /* NotoSansCJKTCBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NotoSansCJKTCBold.ttf; sourceTree = "<group>"; };
+		72E56A5D2AEAB2DD00DAA704 /* NotoSansCJKTC.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NotoSansCJKTC.ttf; sourceTree = "<group>"; };
+		72EBE0412AEAB8820085046B /* loadingAnimation2.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = loadingAnimation2.css; sourceTree = "<group>"; };
+		72EBE0422AEAB8820085046B /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		72EBE0432AEAB8820085046B /* loadingAnimationCompleted.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = loadingAnimationCompleted.html; sourceTree = "<group>"; };
+		72EBE0442AEAB8820085046B /* futurescenes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = futurescenes.json; sourceTree = "<group>"; };
+		72EBE0452AEAB8820085046B /* FutureScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FutureScene.swift; sourceTree = "<group>"; };
+		72EBE0462AEAB8820085046B /* loadingAnimationInitializing.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = loadingAnimationInitializing.html; sourceTree = "<group>"; };
+		72EBE0472AEAB8820085046B /* SelectButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectButton.swift; sourceTree = "<group>"; };
+		72EBE0482AEAB8820085046B /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		72EBE0492AEAB8820085046B /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		72EBE04A2AEAB8820085046B /* loadingAnimationLoading.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = loadingAnimationLoading.html; sourceTree = "<group>"; };
+		72EBE0582AEABADC0085046B /* loadingAnimation1.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = loadingAnimation1.css; sourceTree = "<group>"; };
+		72EBE05A2AEABCDB0085046B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		72EBE05F2AEAC1BA0085046B /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72F8170D2AEAA3C60028B738 /* Malfunction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Malfunction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72F817102AEAA3C60028B738 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		72F817122AEAA3C60028B738 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		72F817142AEAA3C60028B738 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		72F817172AEAA3C60028B738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		72F817192AEAA3C80028B738 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -34,6 +73,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		72E56A592AEAB2DD00DAA704 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				72E56A5A2AEAB2DD00DAA704 /* Syncopate.ttf */,
+				72E56A5B2AEAB2DD00DAA704 /* SyncopateBold.ttf */,
+				72E56A5C2AEAB2DD00DAA704 /* NotoSansCJKTCBold.ttf */,
+				72E56A5D2AEAB2DD00DAA704 /* NotoSansCJKTC.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		72EBE0552AEAB89E0085046B /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				72E56A512AEAAF8100DAA704 /* 101 世貿故障.mp4 */,
+				72E56A522AEAAF8800DAA704 /* 松菸故障.mp4 */,
+				72E56A532AEAAF8900DAA704 /* 自由廣場故障.mp4 */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
 		72F817042AEAA3C60028B738 = {
 			isa = PBXGroup;
 			children = (
@@ -53,11 +113,26 @@
 		72F8170F2AEAA3C60028B738 /* Malfunction */ = {
 			isa = PBXGroup;
 			children = (
+				72EBE05F2AEAC1BA0085046B /* LaunchScreen.storyboard */,
+				72EBE05A2AEABCDB0085046B /* Info.plist */,
+				72EBE0552AEAB89E0085046B /* Videos */,
+				72E56A592AEAB2DD00DAA704 /* Fonts */,
+				72E56A572AEAB0E800DAA704 /* ContentView.swift */,
 				72F817102AEAA3C60028B738 /* AppDelegate.swift */,
-				72F817122AEAA3C60028B738 /* art.scnassets */,
 				72F817142AEAA3C60028B738 /* ViewController.swift */,
 				72F817162AEAA3C60028B738 /* Main.storyboard */,
 				72F817192AEAA3C80028B738 /* Assets.xcassets */,
+				72EBE0422AEAB8820085046B /* AppDelegate.swift */,
+				72EBE0492AEAB8820085046B /* ContentView.swift */,
+				72EBE0452AEAB8820085046B /* FutureScene.swift */,
+				72EBE0442AEAB8820085046B /* futurescenes.json */,
+				72EBE0582AEABADC0085046B /* loadingAnimation1.css */,
+				72EBE0412AEAB8820085046B /* loadingAnimation2.css */,
+				72EBE0432AEAB8820085046B /* loadingAnimationCompleted.html */,
+				72EBE0462AEAB8820085046B /* loadingAnimationInitializing.html */,
+				72EBE04A2AEAB8820085046B /* loadingAnimationLoading.html */,
+				72EBE0472AEAB8820085046B /* SelectButton.swift */,
+				72EBE0482AEAB8820085046B /* ViewController.swift */,
 			);
 			path = Malfunction;
 			sourceTree = "<group>";
@@ -120,8 +195,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72F817132AEAA3C60028B738 /* art.scnassets in Resources */,
+				72E56A542AEAAF8900DAA704 /* 101 世貿故障.mp4 in Resources */,
+				72EBE04E2AEAB8820085046B /* futurescenes.json in Resources */,
+				72E56A562AEAAF8900DAA704 /* 自由廣場故障.mp4 in Resources */,
 				72F8171A2AEAA3C80028B738 /* Assets.xcassets in Resources */,
+				72E56A5E2AEAB2DD00DAA704 /* Syncopate.ttf in Resources */,
+				72EBE0542AEAB8820085046B /* loadingAnimationLoading.html in Resources */,
+				72E56A612AEAB2DD00DAA704 /* NotoSansCJKTC.ttf in Resources */,
+				72EBE04D2AEAB8820085046B /* loadingAnimationCompleted.html in Resources */,
+				72E56A5F2AEAB2DD00DAA704 /* SyncopateBold.ttf in Resources */,
+				72EBE0602AEAC1BA0085046B /* LaunchScreen.storyboard in Resources */,
+				72E56A552AEAAF8900DAA704 /* 松菸故障.mp4 in Resources */,
+				72EBE0502AEAB8820085046B /* loadingAnimationInitializing.html in Resources */,
+				72EBE0592AEABADC0085046B /* loadingAnimation1.css in Resources */,
+				72E56A602AEAB2DD00DAA704 /* NotoSansCJKTCBold.ttf in Resources */,
+				72EBE04B2AEAB8820085046B /* loadingAnimation2.css in Resources */,
 				72F817182AEAA3C60028B738 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -133,8 +221,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72EBE04F2AEAB8820085046B /* FutureScene.swift in Sources */,
+				72EBE04C2AEAB8820085046B /* AppDelegate.swift in Sources */,
+				72EBE0532AEAB8820085046B /* ContentView.swift in Sources */,
 				72F817152AEAA3C60028B738 /* ViewController.swift in Sources */,
+				72EBE0512AEAB8820085046B /* SelectButton.swift in Sources */,
+				72EBE0522AEAB8820085046B /* ViewController.swift in Sources */,
 				72F817112AEAA3C60028B738 /* AppDelegate.swift in Sources */,
+				72E56A582AEAB0E800DAA704 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,6 +280,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				CREATE_INFOPLIST_SECTION_IN_BINARY = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -204,6 +299,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
@@ -249,6 +345,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				CREATE_INFOPLIST_SECTION_IN_BINARY = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -261,6 +358,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -280,13 +378,14 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 6ULV77C4SH;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Malfunction/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -309,13 +408,14 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 6ULV77C4SH;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Malfunction/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
