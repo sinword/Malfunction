@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "101 世貿.arreferenceimage"
+    },
+    {
+      "filename" : "松菸.arreferenceimage"
+    },
+    {
+      "filename" : "自由廣場.arreferenceimage"
+    }
+  ]
+}

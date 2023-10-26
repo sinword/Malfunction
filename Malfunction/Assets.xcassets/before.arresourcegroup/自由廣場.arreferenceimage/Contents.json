@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "自由廣場.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 25.515911282545805
+  }
+}
